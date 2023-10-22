@@ -59,6 +59,10 @@ $ systemctl status jenkins
 ![image](https://github.com/SiwakornEDZ/Devops-Jenkens-aws-docker-argo-cd/assets/87377798/a85c1db8-ae87-49fd-ad19-80313cc66ced)
 <br>
 
+Note
+clean container
+check "disk df -h"
+cleann "docker container prune"
 
 
 
