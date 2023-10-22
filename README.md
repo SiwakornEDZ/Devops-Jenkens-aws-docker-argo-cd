@@ -5,7 +5,7 @@
 * Host name
 *    HostName ipv4
 *    User 'name-lowerString'
-*    IdentityFile C:\Users\sasa5\Downloads\Linux-VM-Key-6.pem
+*    IdentityFile C:\Users\sasa5\Downloads\Linux-VM-Key-6789.pem
 * sudo apt update
 * sudo apt upgrade
 * ![image](https://github.com/SiwakornEDZ/Devops-Jenkens-aws-docker-argo-cd/assets/87377798/f3e4a90c-5f08-4287-816f-6cef5ef99890)setup ip jenkins
