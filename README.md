@@ -60,9 +60,9 @@ $ systemctl status jenkins
 <br>
 
 Note
-clean container
-check "disk df -h"
-cleann "docker container prune"
+clean container<br>
+check "disk df -h"<br>
+cleann "docker container prune"<br>
 
 
 
