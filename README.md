@@ -30,6 +30,10 @@ $ systemctl status jenkins
 <br>
 
 ![image](https://github.com/SiwakornEDZ/Devops-Jenkens-aws-docker-argo-cd/assets/87377798/906db132-1d07-46bd-b332-c59e1d184eb7)
+<br>
+
+![image](https://github.com/SiwakornEDZ/Devops-Jenkens-aws-docker-argo-cd/assets/87377798/cd50c4fe-f4fe-45b8-bc29-81df8b3e6d22)
+
 
 
 
