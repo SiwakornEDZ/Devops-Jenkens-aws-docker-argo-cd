@@ -25,6 +25,9 @@ $ sudo systemctl enable jenkins       //Enable the Jenkins service to start at b
 $ sudo systemctl start jenkins        //Start Jenkins as a service
 
 $ systemctl status jenkins
+<br>
+![image](https://github.com/SiwakornEDZ/Devops-Jenkens-aws-docker-argo-cd/assets/87377798/dcab7539-0c96-49ec-a161-c577a00a9aad)
+
 
 
 
